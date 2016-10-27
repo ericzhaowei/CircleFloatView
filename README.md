@@ -1,2 +1,2 @@
 # CircleFloatView
-![image](https://github.com/ericzhaowei/CircleFloatView/gif/demo.gif)
+![image](https://github.com/ericzhaowei/CircleFloatView/blob/master/gif/demo.gif)
